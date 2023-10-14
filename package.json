@@ -39,6 +39,7 @@
     "jest-extended": "^0.11.5",
     "jsonlint": "^1.6.3",
     "jsonresume-theme-even": "^0.6.0",
+    "jsonresume-theme-flat": "github:chialin/jsonresume-theme-flat",
     "mime-types": "^2.1.27",
     "object-path-immutable": "^4.1.1",
     "puppeteer": "^16.1.0",
