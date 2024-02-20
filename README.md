@@ -1,3 +1,12 @@
+# Based on resume-cli with Customized Theme Added
+## Improvements
+- Updated package libraries to the latest versions
+- Installed custom theme with code base derived from *jsonresume-theme-flat*
+- Resolved issue where content would be cut off between pages when generating PDF files (prevent widow)
+
+# How to export PDF with flat theme
+`resume export ${file_name}.pdf  --theme flat`
+
 # resume-cli
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jsonresume/public?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
